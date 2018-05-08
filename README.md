@@ -87,4 +87,4 @@ When selecting a custom type spinner, you must set the type of image you want as
 spinners.setCustomImage(with: <image_name>)
 ```
 
-# Spinners • Developed By Cyril
+# Spinners • Developed By Cyril Garcia
